@@ -1,0 +1,1 @@
+{"version":3,"sources":["todo.scss","user.scss"],"names":[],"mappings":"AAAA,MACE,SAAU,CAEV,iBACE,WAAY,CCJhB,UACE,2CAA8C,CAC9C,eAAgB","file":"main.9280f416.chunk.css","sourcesContent":[".load {\n  color: red;\n\n  &--completed {\n    color: green;\n  }\n}\n",".username {\n  font-family: \"Courier New\", Courier, monospace;\n  font-size: 1.5em;\n}\n"]}
